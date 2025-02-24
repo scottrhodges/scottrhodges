@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Scott Hodges! 👋
+
+🚀 **Head of Cloud | Logicalis**  
+🔹 Passionate about Cloud, AI, and Security  
+🔹 Helping businesses adopt and optimise cloud solutions  
+
+## 📫 Connect With Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/scottrhodges/)
+- 📝 [GitHub Projects](https://github.com/scottrhodges)
+- ✉️ Reach out via LinkedIn DMs
+
+⚡ **Let's innovate together!**
+
 
 <!--
 **scottrhodges/scottrhodges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
