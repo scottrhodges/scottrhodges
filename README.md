@@ -1,8 +1,8 @@
 # Hi there, I'm Scott Hodges! 👋
 
-🚀 **Head of Cloud | Logicalis**  
+🚀 **Head of Cloud, Data & AI | Logicalis**  
 🔹 Passionate about Cloud, Data & AI, and Security  
-🔹 Helping businesses adopt and optimise cloud solutions  
+🔹 Helping businesses adopt and optimise cloud, data, and AI solutions  
 
 ## 📫 Connect With Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/scottrhodges/)
